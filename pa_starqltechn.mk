@@ -1,8 +1,5 @@
 $(call inherit-product, device/samsung/starqltechn/full_starqltechn.mk)
 
-# Inherit some common LineageOS stuff.
-$(call inherit-product, vendor/aospa/config/common_full_phone.mk)
-
 PRODUCT_NAME := aospa_starqltechn
 BOARD_VENDOR := samsung
 
