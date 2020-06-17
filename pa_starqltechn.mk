@@ -1,6 +1,6 @@
 $(call inherit-product, device/samsung/starqltechn/full_starqltechn.mk)
 
-PRODUCT_NAME := aospa_starqltechn
+PRODUCT_NAME := pa_starqltechn
 BOARD_VENDOR := samsung
 
 # Build fingerprint
