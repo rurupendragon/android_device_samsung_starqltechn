@@ -1,0 +1,8 @@
+[
+	{
+    	"repository": "rurupendragon/android_device_samsung_sdm845-common",
+    	"target_path": "device/samsung/sdm845-common"
+    	"remote": "github",
+		"revision": "rurupendragon-quartz"
+	}
+]
